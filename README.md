@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sena Armagan
-- 👀 I’m interested in Machine Learning and Data Science
+- 👀 I’m interested in Data Science, Machine Learning and Computer Vision 
 - 🌱 I’m currently learning Python
-- 📫 How to reach me : senaarmagan203@gmail.com
+
 
 <!---
 senaarmagan/senaarmagan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
